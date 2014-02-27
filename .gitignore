@@ -1,0 +1,4 @@
+*.tgz
+/node_modules
+README.html
+*.sw?
